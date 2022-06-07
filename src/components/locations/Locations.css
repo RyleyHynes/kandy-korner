@@ -1,0 +1,10 @@
+.locations{
+    display: flex;
+    flex-direction: column;
+    background-color: rgb(210, 235, 235);
+    font-weight: bold;
+}
+.locationsHeader{
+    display: flex;
+    justify-content: center;
+}

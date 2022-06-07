@@ -1,0 +1,12 @@
+.products{
+    display: flex;
+    flex-direction: column;
+    background-color: rgb(210, 235, 235);
+    font-weight: bold;
+}
+
+.productsHeader{
+    display: flex;
+    justify-content: center;
+}
+
